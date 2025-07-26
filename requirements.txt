@@ -1,0 +1,7 @@
+streamlit
+yfinance
+fbprophet
+plotly
+langchain
+openai
+weaviate-client
